@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501399620 source:/home/wanghailin/Projects/C/StructLine/main.c
+	<stdio.h>
+	<stdlib.h>
+
